@@ -12,3 +12,4 @@ This is important information that you should not ignore.
 7. I wish I got some opa fries. #hungry
 8. My battery is going to die. 27%. AHH PANIC
 9. Getting HANGRY
+10. 1 HOUR LEFT
